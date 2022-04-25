@@ -2,7 +2,7 @@
 
 ## I'm a developer and a student
 
-- ⚡ My goal is to achieve a high level of knowledge in JavaScript and it's frameworks
+- ⚡ My goal is to achieve a high level of knowledge in React Library
 
 ### Connect with me:
 
